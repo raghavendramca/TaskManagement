@@ -1,0 +1,17 @@
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/bin/Debug/net8.0/TaskManagment.Dataservice.deps.json
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/bin/Debug/net8.0/TaskManagment.Dataservice.runtimeconfig.json
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/bin/Debug/net8.0/TaskManagment.Dataservice.dll
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/bin/Debug/net8.0/TaskManagment.Dataservice.pdb
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/bin/Debug/net8.0/TaskManagement.Entities.dll
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/bin/Debug/net8.0/TaskManagement.Entities.pdb
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.csproj.AssemblyReference.cache
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.GeneratedMSBuildEditorConfig.editorconfig
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.AssemblyInfoInputs.cache
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.AssemblyInfo.cs
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.csproj.CoreCompileInputs.cache
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskMana.897D5987.Up2Date
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.dll
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/refint/TaskManagment.Dataservice.dll
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.pdb
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.genruntimeconfig.cache
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/ref/TaskManagment.Dataservice.dll
