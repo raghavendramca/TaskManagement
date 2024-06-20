@@ -15,3 +15,4 @@
 /home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.pdb
 /home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.genruntimeconfig.cache
 /home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/ref/TaskManagment.Dataservice.dll
+/home/raghavendramca/Documents/Development/CSharp/TaskManagement/TaskManagment.Dataservice/obj/Debug/net8.0/TaskManagment.Dataservice.sourcelink.json

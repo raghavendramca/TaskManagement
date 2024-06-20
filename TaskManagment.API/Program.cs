@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using TaskManagment.Dataservice.Data;
+using TaskManagment.Dataservice.IConfiguration;
 
 
 
@@ -9,10 +10,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+var connectionstring = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlite(connectionstring));    
+
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-var connectionstring = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlite(connectionstring));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
